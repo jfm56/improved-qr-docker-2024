@@ -19,7 +19,7 @@ This project uses Docker to containerize a Python script that generates a QR cod
 
 Scan this QR code to visit my GitHub profile:
 
-![QR Code to GitHub](qr_codes/QRCode_20250330015947.png)
+![QR Code to GitHub](qr.png)
 
 ---
 
