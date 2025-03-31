@@ -19,7 +19,7 @@ This project uses Docker to containerize a Python script that generates a QR cod
 
 Scan this QR code to visit my GitHub profile:
 
-![QR Code to GitHub](Screenshot%202025-03-30%20at%208.48.31%E2%80%AFPM.png)
+![QR Code to GitHub](qr.png)
 
 ---
 
@@ -27,7 +27,9 @@ Scan this QR code to visit my GitHub profile:
 
 Below is a screenshot of the successful output log from the Docker container, confirming the QR code was created:
 
-![QR Code Generation Log](Screenshot%202025-03-30%20at%209.01.36%E2%80%AFPM.png)
+## QR Code Generation Log
+
+![QR Code Generation Log](log.png)
 
 ---
 
